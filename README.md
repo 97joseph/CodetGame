@@ -1,0 +1,2 @@
+# CodetGame
+ Simple opengl game
